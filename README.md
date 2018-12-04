@@ -16,7 +16,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - Vide
+    - Vide [Guidelines.md](https://bitbucket.org/imhicihu/streaming/src/08eba2b95db8361f63f2fd2cc557a43bbbacedb3/Guidelines.md)
 * Configuration
     - 
 * Dependencies
