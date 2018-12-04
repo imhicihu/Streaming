@@ -1,5 +1,17 @@
 ## Checklist
 
+
+### MacOSX environment
+* Check the extension of your cable power is not out of reach to the place of the webinar/streaming
+* Check your batteries of your notebook/netbook is charged to full extent
+* Verify that your Mozilla Firefox® is updated
+* Clear the caché of your Mozilla Firefox®
+* Verify that your Adobe Flash Player® is updated
+* Check 
+* Verify that your Google Chrome® is updated
+* Clear the caché of your Google Chrome®
+
+### Windows environment
 * Check the extension of your cable power is not out of reach to the place of the webinar/streaming
 * Check your batteries of your notebook/netbook is charged to full extent
 * Verify that your Mozilla Firefox® is updated
@@ -7,8 +19,16 @@
 * Verify that your Google Chrome® is updated
 * Clear the caché of your Google Chrome®
 * Verify that your Adobe Flash Player® is updated
-* 
 
+
+### Linux environment
+* Check the extension of your cable power is not out of reach to the place of the webinar/streaming
+* Check your batteries of your notebook/netbook is charged to full extent
+* Verify that your Mozilla Firefox® is updated
+* Clear the caché of your Mozilla Firefox®
+* Verify that your Google Chrome® is updated
+* Clear the caché of your Google Chrome®
+* Verify that your Adobe Flash Player® is updated
 
 
 ## Legal:
