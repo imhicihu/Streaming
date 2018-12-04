@@ -16,11 +16,8 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - Vide [Guidelines.md](https://bitbucket.org/imhicihu/streaming/src/08eba2b95db8361f63f2fd2cc557a43bbbacedb3/Guidelines.md)
-* Configuration
-    - 
-* Dependencies
-    - 
+    - _Vide_ [Guidelines.md](https://bitbucket.org/imhicihu/streaming/src/08eba2b95db8361f63f2fd2cc557a43bbbacedb3/Guidelines.md)
+    - _Vide_ [Streams_guidelines.md](https://bitbucket.org/imhicihu/streaming/src/10053b13d5c242614d0417118a7274ef769cc230/Streams_guidelines.md?fileviewer=file-view-default)
 
 ### Source ###
 
