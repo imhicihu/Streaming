@@ -38,6 +38,7 @@
 * Launch your Mozilla Firefox® as `Run as Administrator` if your operating system is Microsoft Windows®.
 * Clear your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) before your streaming. Or simply install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
+* Isolate your room from surround noise.
 * Transmit your presentation in a peaceful room. Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
 * Verify your surround light conditions.
 * Avoid wear horizontal & vertical lines in your clothing. _Reason:_ Prevent the "Moire effect". _Vide_: [https://www.youtube.com/watch?v=61NqgAfAt9Y](https://www.youtube.com/watch?v=61NqgAfAt9Y)
