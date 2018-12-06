@@ -6,15 +6,14 @@
  
 
 * Software
-     - Skype
-     - Google Hangouts
-     - Adobe Connect
-     - 
+     - [Skype](http://go.skype.com/windows.desktop.download)
+     - [Google Hangouts](https://hangouts.google.com/)
+     - [Adobe Connect](https://www.adobe.com/products/adobeconnect.html)
+
 * Online tools
-     - 
-     - 
-     - 
-     - 
+     - [Internet speed text](https://fast.com/#)
+     - [Internet speed test Speedtest](http://www.speedtest.net/)
+     - [AT&T High Speed Internet Speed Test](http://speedtest.att.com/speedtest/)
      
 * Documentation
      - 
