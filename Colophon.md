@@ -9,6 +9,7 @@
      - [Skype](http://go.skype.com/windows.desktop.download)
      - [Google Hangouts](https://hangouts.google.com/)
      - [Adobe Connect](https://www.adobe.com/products/adobeconnect.html)
+     - [YouTube live streaming](https://support.google.com/youtube/answer/2474026?hl=en)
 
 * Online tools
      - [Internet speed text](https://fast.com/#)
