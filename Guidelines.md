@@ -8,15 +8,15 @@
 * Clear the caché of your Mozilla Firefox®
 * Verify that your Adobe Flash Player® is updated
 * Verify that your Adobe Flash Player® is enabled
-* Run Mozilla Firefox®.
-* Choose `Firefox` > `Tools` > `Add-ons`.
-* ![fp-fire1.png](https://bitbucket.org/repo/bBMkd4/images/454368749-fp-fire1.png)
-* Select `Plugins`.
-* In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
-* ![fp-fire3.png](https://bitbucket.org/repo/bBMkd4/images/429854473-fp-fire3.png)
-* Select `Always Activate`.
-* Close the dialog box.
-* Restart your Mozilla Firefox®.
+    * Run Mozilla Firefox®.
+    * Choose `Firefox` > `Tools` > `Add-ons`.
+    * ![fp-fire1.png](https://bitbucket.org/repo/bBMkd4/images/454368749-fp-fire1.png)
+    * Select `Plugins`.
+    * In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
+    * ![fp-fire3.png](https://bitbucket.org/repo/bBMkd4/images/429854473-fp-fire3.png)
+    * Select `Always Activate`.
+    * Close the dialog box.
+    * Restart your Mozilla Firefox®.
 * Verify that your Google Chrome® is updated
 * Clear the caché of your Google Chrome®
 
@@ -27,14 +27,14 @@
 * Clear the caché of your Mozilla Firefox®
 * Verify that your Adobe Flash Player® is updated
 * Verify that your Adobe Flash Player® is enabled
-* Run Mozilla Firefox®.
-* Choose `Firefox` > `Tools` > `Add-ons`. 
-* ![fp-fire1.png](https://bitbucket.org/repo/bBMkd4/images/454368749-fp-fire1.png)
-* Select `Plugins`.
-* In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
-* ![fp-fire3.png](https://bitbucket.org/repo/bBMkd4/images/429854473-fp-fire3.png)
-* Select `Always Activate`.
-* Close the dialog box.
+    * Run Mozilla Firefox®.
+    * Choose `Firefox` > `Tools` > `Add-ons`. 
+    * ![fp-fire1.png](https://bitbucket.org/repo/bBMkd4/images/454368749-fp-fire1.png)
+    * Select `Plugins`.
+    * In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
+    * ![fp-fire3.png](https://bitbucket.org/repo/bBMkd4/images/429854473-fp-fire3.png)
+    * Select `Always Activate`.
+    * Close the dialog box.
 * Restart your Mozilla Firefox®.
 * Verify that your Google Chrome® is updated
 * Clear the caché of your Google Chrome®
