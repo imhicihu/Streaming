@@ -1,1 +1,1 @@
-* create a rule for the `no-proxy` setting shared by MarÃ­a. This will be used in the streaming event.
+* ~~create a rule for the `no-proxy` setting shared by María. This will be used in the streaming event~~.
