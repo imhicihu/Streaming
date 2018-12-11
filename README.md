@@ -6,6 +6,8 @@
 * A guide of _good practices_ in the fulfilment of webinars and virtual meetings.
 * So, it is not dogmatic, instead it will _adapt_ to the technological environment that surround both parties.
 * This repo is a living document that will grow and adapt over time
+![adobe_connect_entrance.jpg](https://bitbucket.org/repo/bBMkd4/images/2747426351-adobe_connect_entrance.jpg)
+
 
 ### What is this repository for? ###
 
