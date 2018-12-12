@@ -7,8 +7,9 @@
 
 * Software
      - [Skype](http://go.skype.com/windows.desktop.download)
-     - [Google Hangouts](https://hangouts.google.com/)
-     - [Adobe Connect](https://www.adobe.com/products/adobeconnect.html)
+     - [Skype web version](https://web.skype.com/)
+     - ~~[Google Hangouts](https://hangouts.google.com/)~~ _Reason_: reply and invitation -up to present day- do not run. More data can be found [here](https://www.theverge.com/2018/11/30/18120199/google-hangouts-consumers-2020-chat-app-shut-down).
+     - [Adobe Connect](https://www.adobe.com/products/adobeconnect.html). Payware service. Offers a trial version.
      - [YouTube live streaming](https://support.google.com/youtube/answer/2474026?hl=en)
 
 * Online tools
