@@ -19,10 +19,9 @@
      - [AT&T High Speed Internet Speed Test](http://speedtest.att.com/speedtest/)
      
 * Documentation
-     - 
-     - 
-     - 
-     - 
+     - [Adobe Connect Help (FAQ)](https://helpx.adobe.com/adobe-connect/adobe-connect-mobile-help.html)
+     - [Skype support](https://support.skype.com/en/skype/all/)
+     - [Wireshark support](https://www.wireshark.org/docs/wsug_html_chunked/)
      
 ## Legal ##
 
