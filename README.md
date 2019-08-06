@@ -23,6 +23,7 @@
 ### Repositories related ###
 
 * [Conferences](https://bitbucket.org/imhicihu/conferences/src/master/)
+* [QR Code](https://bitbucket.org/imhicihu/qr-code/src/master/)
 
 ### Source ###
 
@@ -42,7 +43,6 @@
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/streaming/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
-
 
 ### Legal ###
 
