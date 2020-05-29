@@ -3,12 +3,13 @@
 * Hardware
      - a personal computer with a stable operating systems (preferred on 64 bits) and a LAN port connector
      - a steady local area network connection
- 
 
 * Software
+     - [Zoom](https://www.zoom.us)
+     - [Google Meet](https://meet.google.com)
      - [Skype](http://go.skype.com/windows.desktop.download)
      - [Skype web version](https://web.skype.com/)
-     - ~~[Google Hangouts](https://hangouts.google.com/)~~ _Reason_: reply and invitation -up to present day- do not run. More data can be found [here](https://www.theverge.com/2018/11/30/18120199/google-hangouts-consumers-2020-chat-app-shut-down).
+     - ~~[Google Hangouts](https://hangouts.google.com/) _Reason_: reply and invitation -up to present day- do not run. More data can be found [here](https://www.theverge.com/2018/11/30/18120199/google-hangouts-consumers-2020-chat-app-shut-down).~~
      - [Adobe Connect](https://www.adobe.com/products/adobeconnect.html). Payware service. Offers a trial version.
      - [YouTube live streaming](https://support.google.com/youtube/answer/2474026?hl=en)
      - [Wireshark](https://www.wireshark.org/#download): network protocol analyzer
