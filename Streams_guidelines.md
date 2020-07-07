@@ -32,9 +32,9 @@
 * Disable (temporarily) remote connections with other computers.
 * Disable (temporarily) any pop-up blocker software.
 * Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings).
-* Disable (temporarily) Airplay® or Chromecast®.
+* Disable (temporarily) [Airplay](https://discussions.apple.com/thread/7409028)® or [Chromecast](https://www.lifewire.com/how-to-turn-off-chromecast-4801906)®.
 * Disable any screensaver.
-* Update your Adobe Flash player® to the latest version. (Check `guidelines.md`)
+* Update your Adobe Flash player® to the latest version. (Check our [`guidelines.md`](https://bitbucket.org/imhicihu/streaming/src/master/Guidelines.md))
 * Verify that you are running the latest version of Mozilla Firefox® (preferred browser).
 * Run Mozilla Firefox® with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
 * Launch your Mozilla Firefox® as `Run as Administrator` if your operating system is Microsoft Windows®.
