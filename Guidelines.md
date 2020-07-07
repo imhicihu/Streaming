@@ -4,9 +4,9 @@
 ### MacOSX environment
 * Check the extension of your cable power is not out of reach to the place of the webinar/streaming
 * Check your batteries of your notebook/netbook is charged to full extent
-* Verify that your Mozilla Firefox® is updated
-* Clear the caché of your Mozilla Firefox®
-* Verify that your Adobe Flash Player® is updated
+* Verify that your Mozilla Firefox® is [updated](https://support.mozilla.org/en-US/kb/update-firefox-latest-release)
+* [Clear the caché](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) of your Mozilla Firefox®
+* Verify that your Adobe Flash Player® is [updated](https://helpx.adobe.com/flash-player/kb/flash-player-background-updates.html)
 * Verify that your Adobe Flash Player® is enabled
     * Run Mozilla Firefox®.
     * Choose `Firefox` > `Tools` > `Add-ons`.
@@ -17,15 +17,15 @@
     * Select `Always Activate`.
     * Close the dialog box.
     * Restart your Mozilla Firefox®.
-* Verify that your Google Chrome® is updated
-* Clear the caché of your Google Chrome®
+* Verify that your Google Chrome® is [updated](https://support.google.com/chrome/answer/95414?co=GENIE.Platform%3DDesktop&hl=en)
+* [Clear the caché](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&hl=en) of your Google Chrome®
 
 ### Windows environment
 * Check the extension of your cable power is not out of reach to the place of the webinar/streaming
 * Check your batteries of your notebook/netbook is charged to full extent
-* Verify that your Mozilla Firefox® is updated
-* Clear the caché of your Mozilla Firefox®
-* Verify that your Adobe Flash Player® is updated
+* Verify that your Mozilla Firefox® is [updated](https://helpx.adobe.com/flash-player/kb/flash-player-background-updates.html)
+* Clear the [caché](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) of your Mozilla Firefox®
+* Verify that your Adobe Flash Player® is [updated](https://helpx.adobe.com/flash-player/kb/flash-player-background-updates.html)
 * Verify that your Adobe Flash Player® is enabled
     * Run Mozilla Firefox®.
     * Choose `Firefox` > `Tools` > `Add-ons`. 
@@ -36,8 +36,8 @@
     * Select `Always Activate`.
     * Close the dialog box.
     * Restart your Mozilla Firefox®.
-* Verify that your Google Chrome® is updated
-* Clear the caché of your Google Chrome®
+* Verify that your Google Chrome® is [updated](https://support.google.com/chrome/answer/95414?co=GENIE.Platform%3DDesktop&hl=en)
+* [Clear the caché](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&hl=en) of your Google Chrome®
 
 
 ### Linux environment
