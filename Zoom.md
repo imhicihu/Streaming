@@ -1,0 +1,1 @@
+* Please check this [Troubleshoot guide](https://www.onlinemictest.com/zoom-not-picking-up-webcam/) to manage your Zoom session 
