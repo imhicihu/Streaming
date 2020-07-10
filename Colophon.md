@@ -26,6 +26,7 @@
      - [Internet speed text](https://fast.com/#): bandwith speed tester
      - [Internet speed test Speedtest](http://www.speedtest.net/): bandwith speed tester
      - [AT&T High Speed Internet Speed Test](http://speedtest.att.com/speedtest/): bandwith speed tester
+     - [Time.is](https://time.is/es/): official time from countries
      
 * Documentation
      - [Adobe Connect Help (FAQ)](https://helpx.adobe.com/adobe-connect/adobe-connect-mobile-help.html)
