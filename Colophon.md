@@ -12,6 +12,7 @@
           - [Google Meet](https://meet.google.com)
           - [Skype](http://go.skype.com/windows.desktop.download)
           - [Skype web version](https://web.skype.com/)
+          - [Streamlabs](https://streamlabs.com/)
           - ~~[Google Hangouts](https://hangouts.google.com/) _Deprecated_. More data can be found [here](https://www.theverge.com/2018/11/30/18120199/google-hangouts-consumers-2020-chat-app-shut-down).~~
           - [Adobe Connect](https://www.adobe.com/products/adobeconnect.html). Payware service. Offers a trial version
           - [OBS Studio](https://obsproject.com): video recording and live streaming
