@@ -20,7 +20,7 @@
           - [YouTube live streaming](https://support.google.com/youtube/answer/2474026?hl=en)
      - Bandwidth analyzer:
           - [Wireshark](https://www.wireshark.org/#download): network protocol analyzer
-     - Management of data & processess
+     - Management of data & processes
           - [SourceTree](https://www.sourcetreeapp.com/): GIT control version
 
 * Online tools
