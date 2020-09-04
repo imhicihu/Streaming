@@ -41,6 +41,7 @@
 * Shut down instant messaging, email, system notifications (_ie._: from operating system, browser itself, social networks, etc.). If you are in a Windows operating system, this is the [procedure](https://helpdeskgeek.com/how-to/prevent-popup-notifications-from-appearing-on-your-windows-desktop/). If you are in a MacOSX platform you can install this software: [Muzzle](https://muzzleapp.com/) (freeware)
 * Disable (temporarily) any energy saver schema from your operating system during your streaming (ie.: stop hard disk, screen goes black, operating system goes freeze...)
 * Disable (temporarily) your firewall during the streaming event.
+* Disable (temporarily) share your internet connection 
 * Disable (temporarily) file & screen sharing during the streaming event.
 * Disable (temporarily) any disk drive encryption schema, _ie._:
     - FileVault (MacOSX)
