@@ -38,7 +38,7 @@
 * Defragment your hard disk (where your Mozilla Firefox® or Google Chrome® is installed).
 * Verify that your hard disk (where your Mozilla Firefox® or Google Chrome® is installed) got -at least- 10 GB of free space available.
 * During the streaming, do not enable background operations (ie.: defragmentation of your hard disk, antivirus scanning, stream online music, avoid pending updates (ie.: by Apple App store, by Microsoft; Linux dependencies alerts, antivirus definitions, _et alia_).
-* Shut down instant messaging, email, system notifications (_ie._: from operating system, browser itself, social networks, etc.). If you are in a Windows operating system, this is the [procedure](https://helpdeskgeek.com/how-to/prevent-popup-notifications-from-appearing-on-your-windows-desktop/). If you are in a MacOSX platform you can install this software: [Muzzle](https://muzzleapp.com/) (freeware)
+* Shut down instant messaging, email, system notifications (_ie._: from operating system, browser itself, social networks, etc.). If you are in a Windows operating system, this is the [procedure](https://helpdeskgeek.com/how-to/prevent-popup-notifications-from-appearing-on-your-windows-desktop/). If you are in a MacOSX platform you can install this software: [Muzzle](https://muzzleapp.com/) or [Auto DND](https://github.com/dwarvesf/auto-dnd/releases/) , both open source
 * Disable (temporarily) any energy saver schema from your operating system during your streaming (ie.: stop hard disk, screen goes black, operating system goes freeze...)
 * Disable (temporarily) your firewall during the streaming event.
 * Disable (temporarily) share your internet connection 
