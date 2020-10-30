@@ -1,4 +1,4 @@
-## Technical requeriments ##
+## Technical requirements ##
 
 * Hardware
      - a personal computer with a stable operating systems (preferred on 64 bits) and a LAN port connector
@@ -28,6 +28,7 @@
      - [Internet speed test Speedtest](http://www.speedtest.net/): bandwith speed tester
      - [AT&T High Speed Internet Speed Test](http://speedtest.att.com/speedtest/): bandwith speed tester
      - [Time.is](https://time.is/es/): official time from countries
+     - [World Time zones](https://everytimezone.com/)
      
 * Documentation
      - [Adobe Connect Help (FAQ)](https://helpx.adobe.com/adobe-connect/adobe-connect-mobile-help.html)
