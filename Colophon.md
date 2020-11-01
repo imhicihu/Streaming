@@ -24,12 +24,15 @@
           - [SourceTree](https://www.sourcetreeapp.com/): GIT control version
 
 * Online tools
-     - [Internet speed text](https://fast.com/#): bandwith speed tester
-     - [Internet speed test Speedtest](http://www.speedtest.net/): bandwith speed tester
-     - [AT&T High Speed Internet Speed Test](http://speedtest.att.com/speedtest/): bandwith speed tester
-     - [Time.is](https://time.is/es/): official time from countries
-     - [World Time zones](https://everytimezone.com/)
-     
+     - Speed tools tests:
+          - [Internet speed text](https://fast.com/#): bandwith speed tester
+          - [Internet speed test Speedtest](http://www.speedtest.net/): bandwith speed tester
+          - [AT&T High Speed Internet Speed Test](http://speedtest.att.com/speedtest/): bandwith speed tester
+     - Time zone management
+          - [Time.is](https://time.is/es/): official time from countries
+          - [World Time zones](https://everytimezone.com/)
+          - [Time.io](https://timee.io/)
+          
 * Documentation
      - [Adobe Connect Help (FAQ)](https://helpx.adobe.com/adobe-connect/adobe-connect-mobile-help.html)
      - [Skype support](https://support.skype.com/en/skype/all/)
