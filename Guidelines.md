@@ -6,10 +6,7 @@
 * Clear the caché of your Mozilla Firefox®
 * Verify that your Google Chrome® is updated
 * Clear the caché of your Google Chrome®
-* Verify that your Adobe Flash Player® is updated
-* 
-
-
+* ~~Verify that your Adobe Flash Player® is updated~~
 
 ## Legal:
 
