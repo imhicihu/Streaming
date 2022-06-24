@@ -24,13 +24,13 @@
 * If you are behind a proxy server, request to the IT department for a username and password. Write it down and save it
 * Avoid using wireless connections (_aka_ wifi) for streaming.
 * Avoid [VOIP](https://en.wikipedia.org/wiki/Voice_over_IP) connections during the streaming.
-* Connect through network cable to the fastest connection as possible.
+* Connect through network cable to the fastest connection as possible. The closer to the [RJ45 wall jacket](https://hurin.com.ar/wp-content/uploads/2020/09/roseta-rj45-doble-caja-jack-cat5-cat6-cable-red-utp-pared_iZ1119924798XvZgrandeXpZ1XfZ48166890-816894009-1XsZ48166890xIM.jpg), the better.
 * Test your bandwidth: ie.: [http://beta.speedtest.net/#](http://beta.speedtest.net/#)
 
 ### Software
 * Install [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/new/)® or [Google Chrome](https://www.google.com/intl/es-419/chrome/)® or update them to the latest stable version as possible.
 * Avoid any offer of installation of [Nightly builds](https://en.wikipedia.org/wiki/Daily_build) from any browser from any browsers. This builds are in experimental stage.
-* Update your Adobe Flash player® to the latest version. (Check our [`guidelines.md`](https://bitbucket.org/imhicihu/streaming/src/master/Guidelines.md))
+* ~~Update your Adobe Flash player® to the latest version. (Check our [`guidelines.md`](https://bitbucket.org/imhicihu/streaming/src/master/Guidelines.md))~~
 * Verify that you are running the latest version of Mozilla Firefox® (preferred browser).
 * Run Mozilla Firefox® with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
 * Launch your Mozilla Firefox® as `Run as Administrator` if your operating system is Microsoft Windows®.
