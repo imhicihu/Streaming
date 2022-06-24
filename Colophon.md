@@ -32,7 +32,8 @@
           - [Time.is](https://time.is/es/): official time from countries
           - [World Time zones](https://everytimezone.com/)
           - [Time.io](https://timee.io/)
-          - [Clocker](https://apps.apple.com/us/app/clocker/id1056643111?mt=12)
+          - [Clocker](https://apps.apple.com/us/app/clocker/id1056643111?mt=12): Mac based Menubar World Clock
+          - [ShapeTime](https://app.shapetime.ai/)
           
 * Documentation
      - [Adobe Connect Help (FAQ)](https://helpx.adobe.com/adobe-connect/adobe-connect-mobile-help.html)
