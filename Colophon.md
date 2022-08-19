@@ -16,6 +16,7 @@
           - ~~[Google Hangouts](https://hangouts.google.com/) _Deprecated_. More data can be found [here](https://www.theverge.com/2018/11/30/18120199/google-hangouts-consumers-2020-chat-app-shut-down).~~
           - [Adobe Connect](https://www.adobe.com/products/adobeconnect.html). Payware service. Offers a trial version
           - [OBS Studio](https://obsproject.com): video recording and live streaming
+          - [Prism Live Studio](https://prismlive.com/en_us/pcapp/): multi-platform streaming app
      - Platform of live streaming hosting
           - [YouTube live streaming](https://support.google.com/youtube/answer/2474026?hl=en)
      - Bandwidth analyzer:
