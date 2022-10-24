@@ -25,6 +25,9 @@
           - [SourceTree](https://www.sourcetreeapp.com/): GIT control version
 
 * Online tools
+     - Scheduling add-ons:
+          - [Microsoft Outlook Plugin](https://store.office.com/en-us/app.aspx?ui=en-US&rs=en-US&ad=US&assetid=WA104381712&appredirect=false)
+          - [Chrome extension](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle?hl=en&gl=US&authuser=1)
      - Speed tools tests:
           - [Internet speed text](https://fast.com/#): bandwith speed tester
           - [Internet speed test Speedtest](http://www.speedtest.net/): bandwith speed tester
