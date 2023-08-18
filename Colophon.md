@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
      - a personal computer with a stable operating systems (preferred on 64 bits) and a LAN port connector
@@ -29,9 +29,9 @@
           - [Microsoft Outlook Plugin](https://store.office.com/en-us/app.aspx?ui=en-US&rs=en-US&ad=US&assetid=WA104381712&appredirect=false)
           - [Chrome extension](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle?hl=en&gl=US&authuser=1)
      - Speed tools tests:
-          - [Internet speed text](https://fast.com/#): bandwith speed tester
-          - [Internet speed test Speedtest](http://www.speedtest.net/): bandwith speed tester
-          - [AT&T High Speed Internet Speed Test](http://speedtest.att.com/speedtest/): bandwith speed tester
+          - [Internet speed text](https://fast.com/#): bandwidth speed tester
+          - [Internet speed test Speedtest](http://www.speedtest.net/): bandwidth speed tester
+          - [AT&T High Speed Internet Speed Test](http://speedtest.att.com/speedtest/): bandwidth speed tester
      - Time zone management
           - [Time.is](https://time.is/es/): official time from countries
           - [World Time zones](https://everytimezone.com/)
@@ -44,6 +44,6 @@
      - [Skype support](https://support.skype.com/en/skype/all/)
      - [Wireshark support](https://www.wireshark.org/docs/wsug_html_chunked/)
      
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
