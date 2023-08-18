@@ -1,7 +1,7 @@
-## Checklist
+### Checklist
 
 
-### MacOSX environment
+#### MacOSX environment
 * Check the extension of your cable power is not out of reach to the place of the webinar/streaming
 * Check your batteries of your notebook/netbook is charged to full extent
 * Verify that your Mozilla Firefox® is [updated](https://support.mozilla.org/en-US/kb/update-firefox-latest-release)
@@ -10,17 +10,19 @@
 * ~~Verify that your Adobe Flash Player® is enabled~~
     * ~~Run Mozilla Firefox®.~~
     * ~~Choose `Firefox` > `Tools` > `Add-ons`.~~
-    * ![fp-fire1.png](https://bitbucket.org/repo/bBMkd4/images/454368749-fp-fire1.png)
-    * ~~Select `Plugins`.~~
+    <BR></BR>
+    ![fp-fire1.png](images/454368749-fp-fire1.png)
+    * ~~Select `Plugins`~~
     * ~~In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.~~
-    * ![fp-fire3.png](https://bitbucket.org/repo/bBMkd4/images/429854473-fp-fire3.png)
-    * ~~Select `Always Activate`.~~
-    * ~~Close the dialog box.~~
-    * ~~Restart your Mozilla Firefox®.~~
+    <BR></BR>
+    ![fp-fire3.png](images/429854473-fp-fire3.png)
+    * ~~Select `Always Activate`~~
+    * ~~Close the dialog box~~
+    * ~~Restart your Mozilla Firefox®~~
 * Verify that your Google Chrome® is [updated](https://support.google.com/chrome/answer/95414?co=GENIE.Platform%3DDesktop&hl=en)
-* [Clear the caché](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&hl=en) of your Google Chrome®
+* [Clear the cache](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&hl=en) of your Google Chrome®
 
-### Windows environment
+#### Windows environment
 * Check the extension of your cable power is not out of reach to the place of the webinar/streaming
 * Check your batteries of your notebook/netbook is charged to full extent
 * Verify that your Mozilla Firefox® is [updated](https://helpx.adobe.com/flash-player/kb/flash-player-background-updates.html)
@@ -29,18 +31,20 @@
 * ~~Verify that your Adobe Flash Player® is enabled~~
     * ~~Run Mozilla Firefox®.~~
     * ~~Choose `Firefox` > `Tools` > `Add-ons`.~~ 
-    * ![fp-fire1.png](https://bitbucket.org/repo/bBMkd4/images/454368749-fp-fire1.png)
+    <BR></BR>
+    ![fp-fire1.png](images/454368749-fp-fire1.png)
     * ~~Select `Plugins`.~~
     * ~~In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.~~
-    * ![fp-fire3.png](https://bitbucket.org/repo/bBMkd4/images/429854473-fp-fire3.png)
+    <BR></BR>
+    ![fp-fire3.png](images/429854473-fp-fire3.png)
     * ~~Select `Always Activate`.~~
     * ~~Close the dialog box.~~
     * ~~Restart your Mozilla Firefox®.~~
 * Verify that your Google Chrome® is [updated](https://support.google.com/chrome/answer/95414?co=GENIE.Platform%3DDesktop&hl=en)
-* [Clear the caché](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&hl=en) of your Google Chrome®
+* [Clear the cache](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&hl=en) of your Google Chrome®
 
 
-### Linux environment
+#### Linux environment
 * System requeriments:
     - 2.33GHz or faster x86-compatible processor, or Intel Atom 1.6GHz or faster processor for netbooks.
     - Latest versions of Mozilla Firefox.
@@ -62,8 +66,7 @@
 * ~~Visit this link: `http://get.adobe.com/flashplayer/about/`: it will show you your Adobe Flash Player®'s version and suitable installation.~~
 
 
-## Legal:
+### Legal
 * All other trademarks are the property of their respective owners.
-* ~~Adobe, Flash and Flash Player are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.~~
 * Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
 * Lubuntu is a trademark of Canonical.
