@@ -18,12 +18,7 @@
 
 * Summary of set up
     - _Vide_ [Guidelines.md](Guidelines.md)
-    - _Vide_ [Streams_guidelines.md](https://bitbucket.org/imhicihu/streaming/src/10053b13d5c242614d0417118a7274ef769cc230/Streams_guidelines.md?fileviewer=file-view-default)
-    
-### Repositories related ###
-
-* [Conferences](https://bitbucket.org/imhicihu/conferences/src/master/)
-* [QR Code](https://bitbucket.org/imhicihu/qr-code/src/master/)
+    - _Vide_ [Streams_guidelines.md](Streams_guidelines.md)
 
 ### Issues ###
 
