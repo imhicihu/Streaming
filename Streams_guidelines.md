@@ -26,7 +26,7 @@
 * If you are behind a proxy server, request to the IT department for a username and password. Write it down and save it
 * Avoid using wireless connections (_aka_ wifi) for streaming.
 * Avoid [VOIP](https://en.wikipedia.org/wiki/Voice_over_IP) connections during the streaming.
-* Connect through network cable to the fastest connection as possible. The closer to the [RJ45 wall jacket](https://hurin.com.ar/wp-content/uploads/2020/09/roseta-rj45-doble-caja-jack-cat5-cat6-cable-red-utp-pared_iZ1119924798XvZgrandeXpZ1XfZ48166890-816894009-1XsZ48166890xIM.jpg), the better.
+* Connect through network cable to the fastest connection as possible. The closer to the [RJ45 wall jacket](images/roseta-rj45-doble-caja-jack-cat5-cat6-cable-red-utp-pared_iZ1119924798XvZgrandeXpZ1XfZ48166890-816894009-1XsZ48166890xIM.jpg), the better.
 * Test your bandwidth: ie.: [http://beta.speedtest.net/#](http://beta.speedtest.net/#)
 
 #### Software
