@@ -1,7 +1,8 @@
-* _Breakout room_: ON
-* _File Transfer_: ON (decide which file types are permitted)
+### Zoom streaming guidelines
+* _Breakout room_: `ON`
+* _File Transfer_: `ON` (decide which file types are permitted)
 * Allow host to put attendee on hold: as you prefer
-* Disable desktop/screen share for users: OFF
+* Disable desktop/screen share for users: `OFF`
 * Allow host to assign breakout rooms when scheduling: as you prefer
 * _Closed Captioning_: as you prefer (captioning is manual, not automated)
 * _Save Captions_: as you prefer
@@ -15,4 +16,4 @@
 * Allow users to select stereo audio in their client settings: as you prefer
 * Allow users to select original sound in their client settings: as you prefer
 * ~~Attention tracking: as you prefer~~
-* Allow live streaming: OFF unless needed
+* Allow live streaming: `OFF` unless needed
