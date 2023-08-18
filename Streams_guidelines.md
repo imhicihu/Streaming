@@ -1,24 +1,26 @@
-## Procedures or Good practices on streaming connection
+### Procedures or Good practices on streaming connection
 
-### Power
+#### Power
 * Foresee a possible power outage: fully charge your notebook's battery / own an [uninterruptible Power Supply (UPS)](https://en.wikipedia.org/wiki/Uninterruptible_power_supply)
 
-### Schedule
+#### Schedule
 * Verify your [date and time](https://www.timeanddate.com/) in your computer is correct
 * Verify your [time-zone](https://www.timeanddate.com/time/map/)
 * Meet and fit your schedule _against_ to the [official time](https://time.is/es/) of the event
 
-### Hardware
+#### Hardware
 * Check your [keyboard](https://www.onlinemictest.com/keyboard-test/) status
 * Check your [mouse](https://www.onlinemictest.com/mouse-test/) status
-* Test your [audio card](https://www.onlinemictest.com/sound-test/). If you are in macOSX, you can test your audio [here](https://www.onlinemictest.com/microphone-settings/mac-os-x/). If you are in a Linux machine, you can test your audio [here](https://www.onlinemictest.com/microphone-settings/ubuntu/)
+* Test your [audio card](https://www.onlinemictest.com/sound-test/). 
+	* If you are in macOSX, you can test your audio [here](https://www.onlinemictest.com/microphone-settings/mac-os-x/). 
+	* If you are in a Linux machine, you can test your audio [here](https://www.onlinemictest.com/microphone-settings/ubuntu/)
 * Test your [webcam](https://www.onlinemictest.com/webcam-test/)
 * Test your [microphone](https://www.onlinemictest.com/)
 
-### Security
+#### Security
 * Verify that you are out of malware & virus.
 
-### Connections
+#### Connections
 * Avoid the use a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) connection for streaming.
 * Avoid connect through a [proxy server](https://en.wikipedia.org/wiki/Proxy_server)
 * If you are behind a proxy server, request to the IT department for a username and password. Write it down and save it
@@ -27,7 +29,7 @@
 * Connect through network cable to the fastest connection as possible. The closer to the [RJ45 wall jacket](https://hurin.com.ar/wp-content/uploads/2020/09/roseta-rj45-doble-caja-jack-cat5-cat6-cable-red-utp-pared_iZ1119924798XvZgrandeXpZ1XfZ48166890-816894009-1XsZ48166890xIM.jpg), the better.
 * Test your bandwidth: ie.: [http://beta.speedtest.net/#](http://beta.speedtest.net/#)
 
-### Software
+#### Software
 * Install [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/new/)® or [Google Chrome](https://www.google.com/intl/es-419/chrome/)® or update them to the latest stable version as possible.
 * Avoid any offer of installation of [Nightly builds](https://en.wikipedia.org/wiki/Daily_build) from any browser from any browsers. This builds are in experimental stage.
 * ~~Update your Adobe Flash player® to the latest version. (Check our [`guidelines.md`](https://bitbucket.org/imhicihu/streaming/src/master/Guidelines.md))~~
@@ -38,7 +40,7 @@
 * Defragment your hard disk (where your Mozilla Firefox® or Google Chrome® is installed).
 * Verify that your hard disk (where your Mozilla Firefox® or Google Chrome® is installed) got -at least- 10 GB of free space available.
 * During the streaming, do not enable background operations (ie.: defragmentation of your hard disk, antivirus scanning, stream online music, avoid pending updates (ie.: by Apple App store, by Microsoft; Linux dependencies alerts, antivirus definitions, _et alia_).
-* Shut down instant messaging, email, system notifications (_ie._: from operating system, browser itself, social networks, etc.). If you are in a Windows operating system, this is the [procedure](https://helpdeskgeek.com/how-to/prevent-popup-notifications-from-appearing-on-your-windows-desktop/). If you are in a MacOSX platform you can install this software: [Muzzle](https://muzzleapp.com/) or [Auto DND](https://github.com/dwarvesf/auto-dnd/releases/) , both open source
+* Shut down instant messaging, email, system notifications (_ie._: from operating system, browser itself, social networks, etc.). If you are in a Windows operating system, this is the [procedure](https://helpdeskgeek.com/how-to/prevent-popup-notifications-from-appearing-on-your-windows-desktop/). If you are in a MacOSX platform you can install this software: [Muzzle](https://muzzleapp.com/) or [Auto DND](https://github.com/dwarvesf/auto-dnd/releases/), both open source
 * Disable (temporarily) any energy saver schema from your operating system during your streaming (ie.: stop hard disk, screen goes black, operating system goes freeze...)
 * Disable (temporarily) your firewall during the streaming event.
 * Disable (temporarily) share your internet connection 
