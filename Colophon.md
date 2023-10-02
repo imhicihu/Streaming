@@ -38,6 +38,7 @@
           - [Time.io](https://timee.io/)
           - [Clocker](https://apps.apple.com/us/app/clocker/id1056643111?mt=12): Mac based Menubar World Clock
           - [ShapeTime](https://app.shapetime.ai/)
+          - [Meeting planner](https://drajmarsh.bitbucket.io/meeting-planner.html)
           
 * Documentation
      - [Adobe Connect Help (FAQ)](https://helpx.adobe.com/adobe-connect/adobe-connect-mobile-help.html)
