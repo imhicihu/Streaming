@@ -12,7 +12,6 @@
 
 * Quick summary
     - Procedures and checklist in events organized by the institution
-* Version 1.01
 
 ### How do I get set up? ###
 
