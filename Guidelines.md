@@ -67,6 +67,6 @@
 
 
 ### Legal
-* All other trademarks are the property of their respective owners.
-* Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
-* Lubuntu is a trademark of Canonical.
+All other trademarks are the property of their respective owners.
+Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
+Lubuntu is a trademark of Canonical.
