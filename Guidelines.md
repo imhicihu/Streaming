@@ -45,10 +45,10 @@
 
 
 #### Linux environment
-* System requeriments:
+* System requirements:
     - 2.33GHz or faster x86-compatible processor, or Intel Atom 1.6GHz or faster processor for netbooks.
-    - Latest versions of Mozilla Firefox.
-    - 512MB of RAM; 128MB of graphics memory.
+    - Latest versions of Mozilla Firefox
+    - 512MB of RAM; 128MB of graphics memory
 * Tested on: Lubuntu 16.04.3 (64 bits)
 * ~~Linux is not supporting Adobe Flash Player® in its store anymore. Therefore you have to install it manually.~~
 * ~~Open this link: `http://get.adobe.com/flashplayer/`. It will automatically suggest you a version according to your operating system ecosystem.~~
