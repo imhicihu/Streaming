@@ -16,4 +16,5 @@
 
 
 ### Miscellaneous
-* [Youtube do not allow private streamings](http://forobeta.com/youtube/540111-streaming-privado.html). Once it was generated the event, it can be protected (ie: on _private state_). Then it can be shared with those interested on that.
+* [Youtube do not allow private streamings](http://forobeta.com/youtube/540111-streaming-privado.html). Once it was generated the event, it can be protected (ie: on _private state_). Then it can be shared with those interested on that
+* [Streaming tools](https://dashboard.twitch.tv/broadcast)
