@@ -7,7 +7,7 @@
 ![stability-workinprogress](images/477405737-stability_work_in_progress.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 
-# RATIONALE
+## Rationale
 
 * A guide of _good practices_ in the fulfilment of webinars and virtual meetings.
 * So, it is not dogmatic, instead it will _adapt_ to the technological environment that surround both parties.
@@ -44,7 +44,7 @@
 
 ### Legal
 
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners
 
 ### License
 
