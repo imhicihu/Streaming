@@ -40,12 +40,13 @@
           - [Clocker](https://apps.apple.com/us/app/clocker/id1056643111?mt=12): Mac based Menubar World Clock
           - [ShapeTime](https://app.shapetime.ai/)
           - [Meeting planner](https://drajmarsh.bitbucket.io/meeting-planner.html)
+          - [Everytimezone](https://everytimezone.com/)
           
 * Documentation
      - [Adobe Connect Help (FAQ)](https://helpx.adobe.com/adobe-connect/adobe-connect-mobile-help.html)
-     - [Skype support](https://support.skype.com/en/skype/all/)
+     - ~~[Skype support](https://support.skype.com/en/skype/all/)~~
      - [Wireshark support](https://www.wireshark.org/docs/wsug_html_chunked/)
      
 ### Legal
 
-All trademarks are the property of their respective owners.
+All trademarks are the property of their respective owners
