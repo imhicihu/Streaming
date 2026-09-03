@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/ceOSWysHR9W0MwMvn3-_mw.jpeg?raw=true" alt="Logotipo de Streaming"/>
+  <img src="images/ceOSWysHR9W0MwMvn3-_mw.jpeg?raw=true" alt="Logotipo de Streaming" weight="300" height="400"/>
 </p>
 
 ---
